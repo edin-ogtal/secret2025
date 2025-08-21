@@ -64,58 +64,66 @@
   },
   {
     "slug": "moss-grove-53993",
-    "title": "Clue: Moss Grove 53993",
-    "text": "Farve soduku instruktioner",
-    "image": "",
+    "title": "",
+    "text": "Løs denne farve sudoku. Tag et billede af jeres løsning og send den til +45 30 13 47 87 (husk holdnavn).",
+    "image": "images/sudoku.png",
+    "secret": "sudoku instruktioner",
     "video_embed": ""
   },
   {
     "slug": "velvet-glow-d3ea2",
-    "title": "Clue: Velvet Glow D3Ea2",
-    "text": "instruktioner Risstatistik.",
+    "title": "",
+    "text": "Tæl hvor mange ris, der er i denne beholder. Send svaret til +45 30 13 47 87 (husk holdnavn).",
     "image": "",
+    "secret":"risstatistik instruktioner",
     "video_embed": ""
   },
   {
     "slug": "ultra-hollow-2fb3f",
-    "title": "Clue: Ultra Hollow 2Fb3F",
-    "text": "instruktioner Tiktok videoer.",
+    "title": "",
+    "text": "Optag en video en TikTok video på 10 sekunder. Se videoen herunder, hvis I mangler inspiration. Send den til +45 30 13 47 87 (husk holdnavn).. ",
     "image": "",
-    "video_embed": ""
+    "secret": "tiktok instruktioner",
+    "video_embed": "https://www.tiktok.com/@manondelangg/video/7213443657406500101"
   },
   {
     "slug": "topaz-dusk-21a67",
-    "title": "Clue: Topaz Dusk 21A67",
-    "text": "instruktioner Origami.",
+    "title": "",
+    "text": "Fold fem origami figurer. Tag et billede af jeres figurer og send det til +45 30 13 47 87 (husk holdnavn).",
     "image": "",
+    "secret": "origami instruktioner",
     "video_embed": ""
   },
   {
     "slug": "lunar-spark-97a38",
-    "title": "Clue: Lunar Spark 97A38",
-    "text": "instruktioner Kareoke.",
+    "title": "",
+    "text": "",
     "image": "",
+    "secret": "kareoke instruktioner",
     "video_embed": ""
   },
   {
     "slug": "lunar-sage-25335",
-    "title": "Clue: Lunar Sage 25335",
-    "text": "instruktioner Memes.",
-    "image": "",
+    "title": "",
+    "text": "Genskab dette meme. Send jeres bedste bud til +45 30 13 47 87 (husk holdnavn).",
+    "image": "images/memeguy.jpg",
+    "secret": "memes instruktioner",
     "video_embed": ""
   },
   {
     "slug": "ember-ridge-96157",
-    "title": "Clue: Ember Ridge 96157",
-    "text": "instruktioner Real or fake.",
-    "image": "",
+    "title": "",
+    "text": "Find ud af hvilke af disse tekster af skrevet af AI. Send jeres svar til +45 30 13 47 87 (husk holdnavn).",
+    "image": "images/ai_vedtægter.png",
+    "secret": "realorfake instruktioner",
     "video_embed": ""
   },
   {
     "slug": "raven-sage-05bf3",
-    "title": "Clue: Raven Sage 05Bf3",
-    "text": "instruktioner Mål afstand.",
+    "title": "",
+    "text": "Mål afstanden fra den ene bred til den anden. Send jeres bud til +45 30 13 47 87 (husk holdnavn).",
     "image": "",
+    "secret": "mål afstand instruktioner",
     "video_embed": ""
   }
 ]

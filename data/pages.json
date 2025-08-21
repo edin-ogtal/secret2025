@@ -1,17 +1,17 @@
 [
   {
     "slug": "topaz-sage-dd5b6",
-    "title": "Pattern much?.",
-    "text": "Find frem til: 55°07'25\"N 12°07'34\"E. Scan QR koden",
-    "image": "",
+    "title": "",
+    "text": "Find dette sted og scan QR koden for instruktioner",
+    "image": "images/sudoku.png",
     "secret": "sudoku",
     "video_embed": ""
   },
   {
     "slug": "ember-harbor-1f349",
-    "title": "Clue: Ember Harbor 1F349",
+    "title": "",
     "text": "Find dette sted og scan QR koden for instruktioner.",
-    "image": "",
+    "image": "images/rice4all.png",
     "secret": "risstatistik",
     "video_embed": ""
   },
@@ -19,7 +19,7 @@
     "slug": "raven-nook-ec311",
     "title": "",
     "text": "Find dette sted og scan QR koden for instruktioner",
-    "image": "https://photos.app.goo.gl/xkNarFnsk9PYuEtW8",
+    "image": "images/door.png",
     "secret": "tiktok",
     "video_embed": ""
   },
@@ -27,35 +27,38 @@
     "slug": "topaz-vale-ee676",
     "title": "",
     "text": "Find dette sted og scan QR koden for instruktioner",
-    "image": "https://photos.app.goo.gl/8HgRwFAXszgMbK977",
+    "image": "images/origami.png",
     "secret": "origami",
     "video_embed": ""
   },
   {
     "slug": "quartz-dawn-a00c0",
-    "title": "Clue: Quartz Dawn A00C0",
-    "text": "Kareoke.",
-    "image": "",
+    "title": "",
+    "text": "Find dette sted, giv Line et kram for instruktioner",
+    "image": "images/disco.png",
+    "secret": "kareoke",
     "video_embed": ""
   },
   {
     "slug": "zephyr-trail-d903f",
-    "title": "Clue: Zephyr Trail D903F",
-    "text": "Memes.",
-    "image": "",
+    "title": "",
+    "text": "Find dette sted og scan QR koden for instruktioner",
+    "image": "images/view.png",
+    "secret": "memes",
     "video_embed": ""
   },
   {
     "slug": "pepper-crest-8ad3d",
-    "title": "Clue: Pepper Crest 8Ad3D",
-    "text": "Real or fake.",
-    "image": "",
+    "title": "",
+    "text": "Find dette sted og scan QR koden for instruktioner",
+    "image": "images/menneskeellerai.png",
+    "secret": "realorfake",
     "video_embed": ""
   },
   {
     "slug": "polar-wisp-fa4f1",
-    "title": "Clue: Polar Wisp Fa4F1",
-    "text": "Mål afstand.",
+    "title": "Find dette sted og scan QR koden for instruktioner",
+    "text": "Find frem hertil: 55°07'49\"N 12°07'20\"E og scan QR koden for instruktioner",
     "image": "",
     "video_embed": ""
   },

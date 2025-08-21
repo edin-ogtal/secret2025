@@ -43,7 +43,7 @@ def render_media(image, video_embed):
     if video_embed:
         return f'<div style="margin-top:1rem"><iframe src="{html.escape(video_embed)}" loading="lazy" frameborder="0" allowfullscreen title="video clue"></iframe></div>'
     if image:
-        return f'<div style="margin-top:1rem"><img src="../../{html.escape(image)}" alt="clue image"></div>'
+        return f'<div style="margin-top:1rem"><img src="{html.escape(image)}" alt="clue image"></div>'
     return ""
 
 def main():

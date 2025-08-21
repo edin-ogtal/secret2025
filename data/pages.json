@@ -2,7 +2,7 @@
   {
     "slug": "topaz-sage-dd5b6",
     "title": "",
-    "text": "Find dette sted og scan QR koden for instruktioner",
+    "text": "Find frem til stedet, som ses på billedet herunder. Når I er fremmer, så find QR-kode for instruktioner.",
     "image": "images/sudoku.png",
     "secret": "sudoku",
     "video_embed": ""
@@ -10,7 +10,7 @@
   {
     "slug": "ember-harbor-1f349",
     "title": "",
-    "text": "Find dette sted og scan QR koden for instruktioner.",
+    "text": "Find frem til stedet, som ses på billedet herunder. Når I er fremmer, så find QR-kode for instruktioner..",
     "image": "images/rice4all.png",
     "secret": "risstatistik",
     "video_embed": ""
@@ -18,7 +18,7 @@
   {
     "slug": "raven-nook-ec311",
     "title": "",
-    "text": "Find dette sted og scan QR koden for instruktioner",
+    "text": "Find frem til stedet, som ses på billedet herunder. Når I er fremmer, så find QR-kode for instruktioner.",
     "image": "images/door.png",
     "secret": "tiktok",
     "video_embed": ""
@@ -26,7 +26,7 @@
   {
     "slug": "topaz-vale-ee676",
     "title": "",
-    "text": "Find dette sted og scan QR koden for instruktioner",
+    "text": "Find frem til stedet, som ses på billedet herunder. Når I er fremmer, så find QR-kode for instruktioner.",
     "image": "images/origami.png",
     "secret": "origami",
     "video_embed": ""
@@ -42,7 +42,7 @@
   {
     "slug": "zephyr-trail-d903f",
     "title": "",
-    "text": "Find dette sted og scan QR koden for instruktioner",
+    "text": "Find frem til stedet, som ses på billedet herunder. Når I er fremmer, så find QR-kode for instruktioner.",
     "image": "images/view.png",
     "secret": "memes",
     "video_embed": ""
@@ -50,15 +50,15 @@
   {
     "slug": "pepper-crest-8ad3d",
     "title": "",
-    "text": "Find dette sted og scan QR koden for instruktioner",
+    "text": "Find frem til stedet, som ses på billedet herunder. Når I er fremmer, så find QR-kode for instruktioner.",
     "image": "images/menneskeellerai.png",
     "secret": "realorfake",
     "video_embed": ""
   },
   {
     "slug": "polar-wisp-fa4f1",
-    "title": "Find dette sted og scan QR koden for instruktioner",
-    "text": "Find frem hertil: 55°07'49\"N 12°07'20\"E og scan QR koden for instruktioner",
+    "title": "",
+    "text": "Gå herhen: 55°07'49\"N 12°07'20\"E. Når I er fremmer, så find QR-kode for instruktioner",
     "image": "",
     "video_embed": ""
   },

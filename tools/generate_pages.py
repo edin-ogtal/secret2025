@@ -29,11 +29,9 @@ TEMPLATE = r"""<!doctype html>
 <body>
   <main>
     <div class="card">
-      <div class="slug">/pages/{slug}/</div>
       <h1>{title}</h1>
       <p>{text}</p>
       {media}
-      <p><a href="../../">Back to home</a></p>
     </div>
   </main>
 </body>

@@ -9,15 +9,17 @@
   {
     "slug": "ember-harbor-1f349",
     "title": "Clue: Ember Harbor 1F349",
-    "text": "Risstatistik.",
+    "text": "Find dette sted og scan QR koden for instruktioner.",
     "image": "",
+    "secret": "risstatistik",
     "video_embed": ""
   },
   {
     "slug": "raven-nook-ec311",
-    "title": "Clue: Raven Nook Ec311",
-    "text": "Tiktok videoer.",
-    "image": "",
+    "title": "",
+    "text": "Find dette sted og scan QR koden for instruktioner",
+    "image": "https://photos.app.goo.gl/xkNarFnsk9PYuEtW8",
+    "secret": "tiktok",
     "video_embed": ""
   },
   {
@@ -25,6 +27,7 @@
     "title": "",
     "text": "Find dette sted og scan QR koden for instruktioner",
     "image": "https://photos.app.goo.gl/8HgRwFAXszgMbK977",
+    "secret": "origami",
     "video_embed": ""
   },
   {
